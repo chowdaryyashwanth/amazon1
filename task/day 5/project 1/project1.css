@@ -1,0 +1,27 @@
+header{
+    background-color: crimson;
+    height: 200px;
+    border: 2px solid black;
+
+}
+section{
+    background-color: cadetblue;
+    height: 200px;
+    border: 2px solid yellow;
+}
+article{
+    background-color: blueviolet;
+    height: 200px;
+    border: 2px solid red;
+}
+footer{
+    background-color: darkmagenta;
+    height: 100px;
+    border: 2px solid brown;
+}
+img{
+    background-color: brown;
+    height: 400px;
+    border: 2px solid rgb(0, 0, 0);
+    width: 400px;
+}
